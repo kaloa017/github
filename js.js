@@ -207,8 +207,6 @@ console.log("Laveste poengsum: " + darligsteElev.poeng + " (" + darligsteElev.na
 
 // andre økt, del A og del B
 
-// andre økt - produktregister
-
 let produkter = [
     {
         navn: "Tastatur",
